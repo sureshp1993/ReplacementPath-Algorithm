@@ -1,0 +1,19 @@
+Source is: 9. The shortest Distance to every other vertex from here is: 
+Vertex: 1 , Distance: 1 ,Path:9-->1
+Vertex: 2 , Distance: 2 ,Path:9-->1-->2
+Vertex: 3 , Distance: 3 ,Path:9-->1-->2-->3
+Vertex: 4 , Distance: 4 ,Path:9-->1-->2-->3-->4
+Vertex: 5 , Distance: 5 ,Path:9-->1-->2-->3-->4-->5
+Vertex: 6 , Distance: 6 ,Path:9-->1-->2-->3-->4-->5-->6
+Vertex: 7 , Distance: 7 ,Path:9-->1-->2-->3-->4-->5-->6-->7
+Vertex: 8 , Distance: 8 ,Path:9-->1-->2-->3-->4-->5-->6-->7-->8
+Vertex: 9 , Distance: 0 ,Source 
+Vertex: 10 , Distance: 9 ,Path:9-->1-->2-->3-->4-->5-->6-->7-->8-->10
+Vertex: 11 , Distance: 5 ,Path:9-->1-->2-->3-->4-->11
+Vertex: 12 , Distance: 6 ,Path:9-->1-->2-->3-->4-->11-->12
+Vertex: 13 , Distance: 5 ,Path:9-->1-->2-->3-->4-->13
+Vertex: 14 , Distance: 6 ,Path:9-->1-->2-->3-->4-->13-->14
+Vertex: 15 , Distance: 6 ,Path:9-->1-->2-->3-->4-->5-->15
+Vertex: 16 , Distance: 7 ,Path:9-->1-->2-->3-->4-->5-->15-->16
+Vertex: 17 , Distance: 8 ,Path:9-->1-->2-->3-->4-->5-->15-->16-->17
+Vertex: 18 , Distance: 9 ,Path:9-->1-->2-->3-->4-->5-->15-->16-->17-->18
